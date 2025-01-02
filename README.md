@@ -1,6 +1,4 @@
 # Projeto-BD-de-Oficina-Atualizado
-Apresentação do código de criação e inclusão de dados do bd de uma oficina.
-
 O código fornecido configura um banco de dados para um sistema de oficina de automóveis. Aqui está uma descrição simplificada de cada parte:
 
 # 1. Criação do banco de dados e tabelas
